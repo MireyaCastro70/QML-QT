@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/beep.wav</file>
+        <file>assets/swosh.wav</file>
+    </qresource>
+</RCC>
