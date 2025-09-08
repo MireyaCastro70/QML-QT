@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>RedSquare.qml</file>
+        <file>GreenSquare.qml</file>
+        <file>BlueSquare.qml</file>
+        <file>DarkSquare.qml</file>
+        <file>BrightSquare.qml</file>
+    </qresource>
+</RCC>
