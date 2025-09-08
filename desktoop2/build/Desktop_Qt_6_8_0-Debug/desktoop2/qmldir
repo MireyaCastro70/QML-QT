@@ -1,0 +1,5 @@
+module desktoop2
+typeinfo appdesktoop2.qmltypes
+prefer :/qt/qml/desktoop2/
+Main 1.0 Main.qml
+

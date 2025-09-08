@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/desktoop2">/home/practicas/Projects/desktoop2/build/Desktop_Qt_6_8_0-Debug/desktoop2</file>
+
+  </qresource>
+</RCC>
