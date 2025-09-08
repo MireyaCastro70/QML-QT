@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/box_blue.png</file>
+        <file>assets/box_green.png</file>
+        <file>assets/box_red.png</file>
+        <file>assets/circle_blue.png</file>
+        <file>assets/circle_green.png</file>
+        <file>assets/circle_red.png</file>
+        <file>assets/triangle_blue.png</file>
+        <file>assets/triangle_green.png</file>
+        <file>assets/triangle_red.png</file>
+    </qresource>
+</RCC>

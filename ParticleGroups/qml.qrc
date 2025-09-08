@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/particle.png</file>
+        <file>Tracer.qml</file>
+        <file>assets/rocket.png</file>
+        <file>assets/star.png</file>
+    </qresource>
+</RCC>
