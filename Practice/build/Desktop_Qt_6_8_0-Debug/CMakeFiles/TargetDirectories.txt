@@ -1,0 +1,9 @@
+/home/practicas/Projects/Practice/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/Practice.dir
+/home/practicas/Projects/Practice/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/edit_cache.dir
+/home/practicas/Projects/Practice/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/rebuild_cache.dir
+/home/practicas/Projects/Practice/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/list_install_components.dir
+/home/practicas/Projects/Practice/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/install.dir
+/home/practicas/Projects/Practice/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/install/local.dir
+/home/practicas/Projects/Practice/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/install/strip.dir
+/home/practicas/Projects/Practice/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/Practice_autogen_timestamp_deps.dir
+/home/practicas/Projects/Practice/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/Practice_autogen.dir
